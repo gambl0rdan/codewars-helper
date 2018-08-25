@@ -1,0 +1,19 @@
+{
+  "name": "codewars-helper",
+  "version": "1.0.0",
+  "description": "Small utility to run quick JavaScript functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gambl0rdan/codewars-helper.git"
+  },
+  "author": "gambl0r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gambl0rdan/codewars-helper/issues"
+  },
+  "homepage": "https://github.com/gambl0rdan/codewars-helper#readme"
+}
